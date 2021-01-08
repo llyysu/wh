@@ -63,6 +63,7 @@ a:hover {
 
 /* 标题板块 */
 .title {
+    background-image: linear-gradient(to right, rgba(0, 162, 255, 0.4), rgba(255, 0, 255, 0.2)), url(../images/bg1.jpg);
     height: 800px;
     overflow: hidden;
 }
