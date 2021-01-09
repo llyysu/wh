@@ -176,6 +176,16 @@ body {
 	animation: happybirthdays 10s;
 	animation-delay: 0s;
 }
+.section {
+	position:absolute;
+	left:50%;
+	top:49%;
+	margin-left: -119px;
+	opacity: 2;
+	animation: happybirthdays 12s;
+	animation-delay: 0s;
+}
+
 @keyframes happybirthdays {
 	0% {
 		position:absolute;
